@@ -3,6 +3,12 @@ Novacrucia FB Bot Page for api.kenliejugarap.com
 
 # Tutorial
 
+## Video Tutorial (How to host)
+1. **Render Tutorial**
+   - [Create Facebook Bot Page (Novacrucia) - (Render Hosting Tutorial)](https://youtu.be/LTPSUdfIzi8)
+2. **Replit Tutorial (Not Recommended if not paid)**
+   - [Create Facebook Bot Page (Novacrucia) - (Replit Hosting Tutorial)](https://youtu.be/CY9YqL4AjjA)
+
 ## Prerequisites
 Before starting, ensure you have a Facebook Page. If you don't have one, create a Facebook Page first.
 
